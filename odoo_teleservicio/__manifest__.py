@@ -5,7 +5,7 @@
     
     'sumary': ***Teleservicio app to manage Trainig***,
     
-    'descrption': ***
+    'description': ***
         Teleservicio Module to manage Trainig:
         - Courses
         - Sessions
