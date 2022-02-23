@@ -1,7 +1,7 @@
 # _*_ coding: utf-8 _*_
 
 {
-    'name': 'Odoo Teledesvicio',
+    'name': 'Odoo Teleservicio',
     
     'sumary': ***Teleservicio app to manage Trainig***,
     
